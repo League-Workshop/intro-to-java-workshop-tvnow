@@ -1,4 +1,4 @@
-package section5;
++package section5;
 
 import java.applet.AudioClip;
 import java.awt.Dimension;
